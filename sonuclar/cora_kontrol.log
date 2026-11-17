@@ -1,0 +1,32 @@
+Processing...
+Done!
+bolme 0 kat 0 | acc 0.831 | NLLx100 uncal 70.1 TS 53.8 ISTS 53.8 (lam 100.0) | 15s
+bolme 0 kat 1 | acc 0.829 | NLLx100 uncal 58.5 TS 55.8 ISTS 55.8 (lam 100.0) | 23s
+bolme 0 kat 2 | acc 0.829 | NLLx100 uncal 62.6 TS 55.0 ISTS 54.9 (lam 100.0) | 12s
+bolme 1 kat 0 | acc 0.838 | NLLx100 uncal 58.5 TS 52.7 ISTS 53.3 (lam 0.1) | 14s
+bolme 1 kat 1 | acc 0.842 | NLLx100 uncal 59.0 TS 51.5 ISTS 51.0 (lam 0.1) | 12s
+bolme 1 kat 2 | acc 0.825 | NLLx100 uncal 58.5 TS 53.9 ISTS 53.9 (lam 100.0) | 46s
+bolme 2 kat 0 | acc 0.818 | NLLx100 uncal 59.1 TS 57.7 ISTS 56.2 (lam 1.0) | 28s
+bolme 2 kat 1 | acc 0.832 | NLLx100 uncal 57.8 TS 54.9 ISTS 54.6 (lam 10.0) | 11s
+bolme 2 kat 2 | acc 0.816 | NLLx100 uncal 57.9 TS 58.3 ISTS 58.3 (lam 100.0) | 13s
+bolme 3 kat 0 | acc 0.825 | NLLx100 uncal 62.9 TS 58.7 ISTS 58.7 (lam 100.0) | 11s
+bolme 3 kat 1 | acc 0.824 | NLLx100 uncal 71.9 TS 58.3 ISTS 58.2 (lam 100.0) | 13s
+bolme 3 kat 2 | acc 0.814 | NLLx100 uncal 63.8 TS 63.6 ISTS 62.2 (lam 1.0) | 17s
+bolme 4 kat 0 | acc 0.831 | NLLx100 uncal 58.3 TS 57.7 ISTS 57.7 (lam 100.0) | 17s
+bolme 4 kat 1 | acc 0.829 | NLLx100 uncal 63.2 TS 55.4 ISTS 55.3 (lam 10.0) | 8s
+bolme 4 kat 2 | acc 0.834 | NLLx100 uncal 57.7 TS 54.5 ISTS 53.4 (lam 1.0) | 21s
+uncal acc    82.78 ± 0.74
+uncal nll    61.31 ± 4.35
+uncal brier  27.97 ± 1.84
+uncal ece    11.39 ± 4.23
+uncal aurc    6.02 ± 0.47
+ts    acc    82.78 ± 0.74
+ts    nll    56.12 ± 2.90
+ts    brier  25.62 ± 0.90
+ts    ece     3.75 ± 1.11
+ts    aurc    5.71 ± 0.43
+ists  acc    82.78 ± 0.74
+ists  nll    55.81 ± 2.72
+ists  brier  25.50 ± 0.92
+ists  ece     3.69 ± 1.21
+ists  aurc    5.61 ± 0.36
